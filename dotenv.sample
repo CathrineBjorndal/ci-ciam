@@ -11,8 +11,8 @@ API_SECRET= jApq6RDo5l
 OIDC_REDIRECT_URI=http://localhost:3000/oauth/callback
 
 # Auto-setup will complete these values for created application:
-OIDC_CLIENT_ID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-OIDC_CLIENT_SECRET=xxxxxxxx
+OIDC_CLIENT_ID=b778ded7-d6a3-4110-98cd-f059d9780d9b
+OIDC_CLIENT_SECRET=nVcemYDaJn
 
 # Allow setup page access (at /setup)
 ALLOW_DYNAMIC_SETUP=true
