@@ -1,5 +1,5 @@
 # Your tenant URL.  You must set this.
-OIDC_CI_BASE_URI=https://509241657.verify.ibm.com/ui/admin
+OIDC_CI_BASE_URI=https://509241657.verify.ibm.com
 
 # API Client for client_credentials flow
 # Give full permissions for auto-setup
